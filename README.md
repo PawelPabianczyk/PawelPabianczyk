@@ -6,3 +6,11 @@ I am a student of Computer Science at Politechnika Krakowska. I have a great int
 * [PrivateLibrary-client (Java, JavaFX)](https://github.com/PawelPabianczyk/PrivateLibrary-client)
 * [PrivateLibrary-server (Java, Mysql)](https://github.com/PawelPabianczyk/PrivateLibrary-server)
 * [PrivateLibrary-server-MongoDB (Java, MongoDB)](https://github.com/PawelPabianczyk/PrivateLibrary-server-MongoDB)
+
+Other ideas:
+* [my-page (HTML/CSS)](https://github.com/PawelPabianczyk/my-page)
+* [PomodoroApp (HTML/CSS,JavaScript)](https://github.com/PawelPabianczyk/PomodoroApp)
+
+Contact:
+* You can reach me by mail at pawel.pabianczyk1999@gmail.com
+* You can find me on [LinkedIn](https://www.linkedin.com/in/pawel-pabianczyk/)
