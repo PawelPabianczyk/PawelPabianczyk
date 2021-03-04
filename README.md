@@ -10,7 +10,7 @@ I am a student of Computer Science at Politechnika Krakowska. I have a great int
 
 #### Other ideas:
 * [my-page (HTML/CSS)](https://github.com/PawelPabianczyk/my-page)
-* [PomodoroApp (HTML/CSS,JavaScript)](https://github.com/PawelPabianczyk/PomodoroApp)
+* [PomodoroApp (HTML/CSS, JavaScript)](https://github.com/PawelPabianczyk/PomodoroApp)
 
 #### Contact:
 * You can reach me by mail at pawel.pabianczyk1999@gmail.com
